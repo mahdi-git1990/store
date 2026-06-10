@@ -1,0 +1,111 @@
+.custom-nav-tabs-product-page .nav-link.active,
+.custom-nav-tabs-product-page .nav-item.show .nav-link {
+  border-top: 3px solid red;
+}
+.custom-nav-tabs-product-page .nav-link {
+  font-size: 16px;
+}
+.custom-tab-pane-product h5,
+.custom-tab-pane-product-detail h5 {
+  color: #848181;
+}
+.custom-tab-pane-product .product-desc {
+  font-size: 15px;
+  line-height: 36px;
+  background-color: #fbfbfb;
+}
+.product-main-desc {
+  font-size: 15px;
+  line-height: 36px;
+}
+.product-all-rate {
+  font-size: 14px;
+}
+.progress-product-wrapper {
+  background-color: #fbfbfb;
+}
+.product-desc-step li {
+  border-right: 1px solid rgb(160, 160, 160);
+  font-size: 17px;
+  line-height: 46px;
+  color: #2f2f2f;
+}
+.product-desc-step i {
+  top: -8px;
+  right: -10px;
+  font-size: 20px;
+  color: rgb(160, 160, 160);
+}
+.product-desc-step li .p-img-wrapper {
+  max-width: 500px;
+  margin: 0 auto;
+}
+.custom-tab-pane-product-detail ul li .key {
+  background-color: #f7f6f6;
+  flex: 0 0 20%;
+  height: 40px;
+  font-size: 15px;
+}
+.custom-tab-pane-product-detail ul li .value {
+  background-color: #f7f6f6;
+  flex: 0 0 78%;
+  height: 40px;
+  font-size: 15px;
+}
+.custom-tab-pane-product-detail ul p {
+  font-size: 16px;
+}
+.custom-tab-pane-product-detail ul p i {
+  vertical-align: -3px;
+}
+.add-coment p:first-child {
+  font-size: 18px;
+  color: #505050;
+}
+.add-coment p:nth-child(2) {
+  color: #505050;
+}
+.add-coment a i {
+  vertical-align: -4px;
+}
+.custom-media-products .user-details .p-supplier {
+  font-size: 16px;
+}
+.user-details p,
+.user-details .p-color {
+  font-size: 15px;
+}
+.user-details .bg-custom {
+  font-size: 16px;
+}
+.user-product-comment {
+  font-size: 18px;
+}
+.user-product-comment .bnefit-com-title {
+  font-size: 16px;
+}
+.user-product-comment ul.nav li {
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+.user-product-comment ul.nav li i {
+  font-size: 8px;
+  color: #8888fb;
+}
+.comm-vote span {
+  font-size: 14px;
+  padding: 4px 10px;
+}
+.comm-vote {
+  font-size: 16px;
+}
+.add-comments p {
+  font-size: 18px;
+}
+.add-coment p i {
+  font-size: 36px;
+  vertical-align: -8px;
+}
+/* @media screen and (min-width: 576px) and (max-width: 735px) {
+   
+} */

@@ -1,0 +1,50 @@
+.custom-breadcrumb {
+  margin: 0;
+  background-color: transparent;
+  font-size: 16px;
+}
+.breadcrumb-item + .breadcrumb-item::before {
+  content: ">" !important;
+}
+.product-page-rate {
+  color: rgb(214, 190, 51);
+  font-size: 18px;
+}
+.product-page-rate span {
+  color: rgb(44, 44, 44);
+  font-size: 16px;
+}
+.product-page-price {
+  font-size: 18px;
+}
+.product-page-price span {
+  color: rgb(214, 27, 27);
+}
+h1.product-page-title {
+  font-size: 23px;
+}
+.describe {
+  font-size: 17px;
+  line-height: 36px;
+}
+.product-page-title .fa-heart {
+  color: rgb(214, 27, 27);
+}
+.product-page-title .fa-share-alt,
+.product-page-title .fa-bell {
+  color: rgb(61, 61, 61);
+}
+.p-benfit {
+  font-size: 20px;
+}
+.brand-cat {
+  font-size: 15px;
+}
+.benfit-list li,
+.benfit-list i {
+  font-size: 14px;
+  color: rgb(61, 61, 61);
+}
+.product-color{
+  font-size: 16px;
+}
