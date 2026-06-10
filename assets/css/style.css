@@ -1,15 +1,15 @@
-@import "_top-nav.css";
-@import "_slider.css";
-@import "_shipping.css";
-@import "_ads.css";
-@import "_categories.css";
-@import "_special-offers.css";
-@import "_popular-products.css";
-@import "_banner-section-1.css";
-@import "_footer.css";
-@import "_login-form.css";
-@import "_pruduct-breadcrumb.css";
-@import "_product-desc.css";
+@import "top-nav.css";
+@import "slider.css";
+@import "shipping.css";
+@import "ads.css";
+@import "categories.css";
+@import "special-offers.css";
+@import "popular-products.css";
+@import "banner-section-1.css";
+@import "footer.css";
+@import "login-form.css";
+@import "pruduct-breadcrumb.css";
+@import "product-desc.css";
 
 @font-face {
   font-family: "Vazirmatn-Medium";
