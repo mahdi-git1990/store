@@ -26,9 +26,7 @@ store with bootstrap
 - `product-single.html`: صفحه محصول
 
 ## نحوه اجرا
-1.  پوشه پروژه را از GitHub دانلود کنید (Clone).
-2.  برای صفحه اصلی فایل index.html و برای صفحه محصول فایل product-single.html  را باز کنید.
-
+1.  برای صفحه اصلی فایل index.html و برای صفحه محصول فایل product-single.html  را باز کنید.
 ## لینک دمو 
 [Live Demo - صفحه اصلی](https://mahdi-git1990.github.io/store/index.html)
 [Live Demo - صفحه محصول](https://mahdi-git1990.github.io/store/product-single.html)
