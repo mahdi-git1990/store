@@ -31,6 +31,6 @@ store with bootstrap
 
 ## لینک دمو 
 [Live Demo - صفحه اصلی](https://mahdi-git1990.github.io/store/index.html)
-[Live Demo - صفحه محصول](https://mahdi-git1990.github.io/store/product.html)
+[Live Demo - صفحه محصول](https://mahdi-git1990.github.io/store/product-single.html)
 ## توسعه دهنده
 [مهدی اسماعیلی]
