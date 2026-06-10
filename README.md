@@ -13,22 +13,23 @@ store with bootstrap
 ## تکنولوژی‌های استفاده شده
 - HTML5
 - CSS3
-- Bootstrap 5 (یا هر ورژنی که استفاده کردی)
-- JavaScript (اگر برای تعاملات استفاده کردی)
+- Bootstrap 5 
+- JavaScript
 
 ## ساختار فایل‌ها
 - `assets/`: پوشه‌ای شامل:
-    - `css/`: فایل‌های CSS (شامل فایل Bootstrap یا استایل‌های سفارشی)
+    - `css/`: فایل‌های CSS 
     - `img/`: تصاویر محصولات و المان‌های گرافیکی
     - `font/`: فونت‌های استفاده شده
-- `Pages/` (یا اسم پوشه دیگر): پوشه‌ای شامل فایل‌های HTML:
-    - `index.html`: صفحه اصلی فروشگاه
-    - `product.html`: صفحه جزئیات محصول
+- `index.html`: صفحه اصلی
+- `product-single.html`: صفحه محصول
 
 ## نحوه اجرا
 1.  پوشه پروژه را از GitHub دانلود کنید (Clone).
-2.  فایل `index.html` (برای صفحه اصلی) یا `product.html` (برای صفحه محصول) را با مرورگر وب خود باز کنید.
-قرار بده. توجه کن که مسیر فایل‌های HTML را درست بنویسی.)
+2.  برای صفحه اصلی فایل index.html و برای صفحه محصول فایل product-single.html  را باز کنید.
 
+## لینک دمو 
+[Live Demo - صفحه اصلی](https://mahdi-git1990.github.io/store/index.html)
+[Live Demo - صفحه محصول](https://mahdi-git1990.github.io/store/product.html)
 ## توسعه دهنده
 [مهدی اسماعیلی]
